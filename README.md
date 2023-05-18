@@ -1,3 +1,6 @@
+# ABOUT
+- A Python program that extracts specific portions of a video for uploads
+
 # 1. Download and install poetry
 
 - then run
